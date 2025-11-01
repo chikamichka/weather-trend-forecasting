@@ -74,7 +74,7 @@ weather-trend-forecasting/
 
 ### Prerequisites
 ```bash
-python 3.8+
+python 3.9+
 ```
 
 ### Installation
@@ -113,5 +113,3 @@ This project is created for educational purposes as part of the PM Accelerator D
 - PM Accelerator for the opportunity
 - Kaggle for providing the dataset
 - Open-source community for the tools
-
----
